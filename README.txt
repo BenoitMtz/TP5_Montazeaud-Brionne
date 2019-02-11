@@ -1,0 +1,2 @@
+ATTENTION : nous vous prions de bien vouloir ouvrir le fichier output.svg avec Chrome ou Firefox pour pouvoir profiter de toutes les fonctionalités disponibles.
+PS : le barycentre n'est calulé ,et donc affiché, seulement par rapport aux astres statiques (qui ne tournes pas).
